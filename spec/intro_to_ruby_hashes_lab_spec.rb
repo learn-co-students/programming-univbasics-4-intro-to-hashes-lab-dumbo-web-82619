@@ -2,7 +2,6 @@ require_relative 'spec_helper'
 require_relative '../intro_to_ruby_hashes_lab.rb'
 
 describe "working with hashes" do
-
   describe "instantiating" do
     describe "new_hash" do
       it "creates an empty hash and returns it" do
