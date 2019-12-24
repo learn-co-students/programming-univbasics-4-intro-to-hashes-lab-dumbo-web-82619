@@ -1,0 +1,36 @@
+# def new_hash
+# new_hash = {}
+# end
+
+# def my_hash
+#   my_hash = {:donuts => "Jelly"};
+# end
+
+# # describe "pioneer" do
+# #       it "creates and returns a hash named pioneer whose key is a symbol :name and whose value is a string, 'Grace Hopper'" do
+# #         expect(pioneer).to be_a(Hash)
+# #         expect(pioneer[:name]).to eq("Grace Hopper")
+# #       end
+# #     end
+
+# def pioneer
+#   pioneer = {:name => 'Grace Hopper'}
+#   return pioneer
+# # <!--4. Create a method called `id_generator` that creates and returns a hash with-->
+# # <!--   one key/value pair. The key should be a symbol, `:id`. For the value, provide a-->
+# # <!--   positive integer of your choice.-->
+
+# def id_generator
+#   id_generator = Hash.new
+#   id_generator = {:id => 7}
+#   return id_generator
+
+
+# # <!--5. Create a method called `my_hash_creator` that takes in two parameters. In-->
+# # <!--   this method, create and return a hash with one key/value pair, using the first-->
+# # <!--   parameter as the _key_, and the second parameter as the _value_.-->
+
+# def my_hash_creator(:eyes, 2)
+#   my_hash_creator = {:eyes, 2}
+#   return my_hash_creator
+
